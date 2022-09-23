@@ -3,7 +3,7 @@ Help to unlock dell bios password 11th &amp; 12th gen
 contact: <a href="http://m.me/pk4tech">Facebook Masanger </a><a href="http://t.me/pk4tech">Telegram</a>
 <h3><a href="https://github.com/pk4tech/Dell-Bios-Computer-Deployment-Settings-edit-bios-Password">ViewMore</h3>
 
-<h3><a href="https://github.com/pk4tech/Dell-Bios-Computer-Deployment-Settings-edit-bios-Password/archive/refs/heads/main.zip">Download</h3>
+<h3><a href="https://github.com/pk4tech/Dell-Bios-Computer-Deployment-Settings-edit-bios-Password/archive/refs/heads/main.zip">Download</a></h3>
 
 
 
