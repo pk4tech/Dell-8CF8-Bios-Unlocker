@@ -7,7 +7,7 @@ contact: <a href="http://m.me/pk4tech">Facebook Masanger </a><a href="http://t.m
 
 
 
-
+<p>
 You can Enable/Set ADMIN Password using below command:
 
 For Set     : cctk --setuppwd=PASSWORD  
@@ -25,3 +25,4 @@ You can Enable/Set HDD Password using below command:
 For Set        : cctk --hddpwd=PASSWORD
 
 For Clear     : cctk --hddpwd=   --valhddpwd=PASSWORD
+  </p>
