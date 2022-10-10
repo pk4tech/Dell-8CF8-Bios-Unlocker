@@ -55,6 +55,7 @@ For Clear     : cctk --hddpwd=   --valhddpwd=PASSWORD
   
   
   <h1>Contact ME!</h1>
-<h3><a href="http://m.me/pk4tech" target="_blank">Pk4Tech</a></h3>
+<h3><a href="http://m.me/pk4tech" target="_blank">Facebook Massanger</a></h3>
 <h3><a href="http://t.me/pk4tech" target="_blank">Telegram Link</a></h3>
 <h3><a href="http://wa.me/9779813173454? text=Help Me With Dell 8CF8 BIOS Found you On GitHub" target="_blank">WhatsAPP</a></h3> 
+  ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
