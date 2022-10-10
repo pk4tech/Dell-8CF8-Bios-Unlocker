@@ -58,4 +58,3 @@ For Clear     : cctk --hddpwd=   --valhddpwd=PASSWORD
 <h3><a href="http://m.me/pk4tech" target="_blank">Facebook Massanger</a></h3>
 <h3><a href="http://t.me/pk4tech" target="_blank">Telegram Link</a></h3>
 <h3><a href="http://wa.me/9779813173454? text=Help Me With Dell 8CF8 BIOS Found you On GitHub" target="_blank">WhatsAPP</a></h3> 
-  <img src="https://camo.githubusercontent.com/fd64c51a4afd8b4e2b84479f9a2b654084602bd15f25ab31cbd7a679d73d129a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465" alt="PayPal" data-canonical-src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" style="max-width: 100%;">
