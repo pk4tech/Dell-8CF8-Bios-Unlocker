@@ -2,13 +2,13 @@
 Help to unlock dell bios password 11th &amp; 12th gen
 <h1><a href="http://m.me/pk4tech">Pk4Tech</a> will help you <a href="http://t.me/pk4tech">Telegram Link</a></h1> 
 <P>
-<b><i>cctk.exe --syspwd=2211 --valsyspwd=1122</i></b> <br><br>
-  (Where 2211 is new Bios-System-password && 1122 is old Bios-System-password) <br>
-<b><i>cctk.exe --syspwd= --valsyspwd=1122 </i></b><br><br>
-  (It clears the Bios-system-Password)<br>
+<b><i>cctk.exe --syspwd=2211 --valsyspwd=1122</i></b> <br>
+  (Where 2211 is new Bios-System-password && 1122 is old Bios-System-password) <br><br>
+<b><i>cctk.exe --syspwd= --valsyspwd=1122 </i></b><br>
+  (It clears the Bios-system-Password)<br><br>
 <b><i>cctk.exe --setuppwd=2211 --valsetuppwd=1122</i></b><br> <br>
   (Where 2211 is new BIOS-Admin-Password && 1122 is old Password)<br>
-<b><i>cctk.exe --setuppwd= --valsetuppwd=1122</i></b> <br><br>
+<b><i>cctk.exe --setuppwd= --valsetuppwd=1122</i></b> <br>
   (It helps to clear Bios-Admin/System-Setup-Password)<br><br><br>
 
 </P>
