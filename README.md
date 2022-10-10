@@ -1,6 +1,14 @@
 # Dell-8CF8-Bios-Unlocker
 Help to unlock dell bios password 11th &amp; 12th gen
 <h1><a href="http://m.me/pk4tech">Pk4Tech</a> will help you <a href="http://t.me/pk4tech">Telegram Link</a></h1> 
+<P>
+cctk.exe --syspwd=2211 --valsyspwd=1122 (Where 2211 is new Bios-System-password && 1122 is old Bios-System-password)
+cctk.exe --syspwd= --valsyspwd=1122 (It clears the Bios-system-Password)
+cctk.exe --setuppwd=2211 --valsetuppwd=1122 (Where 2211 is new BIOS-Admin-Password && 1122 is old Password)
+cctk.exe --setuppwd= --valsetuppwd=1122 (It helps to clear Bios-Admin/System-Setup-Password)
+
+</P>
+<b><i>Get It -?- </i></b>
 <img src="https://user-images.githubusercontent.com/35728885/191994450-e722ee7c-828c-4743-8c4d-c7723bc4bf50.png" height="100%"  width="100%">
 <img src="https://user-images.githubusercontent.com/35728885/191998928-2a64bf58-0cb9-4930-938a-6479c385ba76.png" height="50%"  width="50%">
 <img src="https://user-images.githubusercontent.com/35728885/191998994-28614dc0-fb60-450f-96ec-262d732dcec2.png" height="50%"  width="50%">
