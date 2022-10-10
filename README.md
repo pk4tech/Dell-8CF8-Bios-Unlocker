@@ -2,8 +2,8 @@
 Help to unlock dell bios password 11th &amp; 12th gen
 
 <h1>Contact ME!</h1>
-<h3><a href="http://m.me/pk4tech? text=Help Me With Dell 8CF8 BIOS Found you On GitHub">Pk4Tech</a></h3>
-<h3><a href="http://t.me/pk4tech? text=Help Me With Dell 8CF8 BIOS Found you On GitHub">Telegram Link</a></h3>
+<h3><a href="http://m.me/pk4tech">Pk4Tech</a></h3>
+<h3><a href="http://t.me/pk4tech">Telegram Link</a></h3>
 <h3><a href="http://wa.me/9779813173454? text=Help Me With Dell 8CF8 BIOS Found you On GitHub">WhatsAPP</a></h3> 
 
 
