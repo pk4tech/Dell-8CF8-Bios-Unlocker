@@ -1,6 +1,9 @@
 # Dell-8CF8-Bios-Unlocker
 Help to unlock dell bios password 11th &amp; 12th gen
-<h1><a href="http://m.me/pk4tech">Pk4Tech</a> will help you <a href="http://t.me/pk4tech">Telegram Link</a></h1> 
+<h1><a href="http://m.me/pk4tech">Pk4Tech</a> will help you <a href="http://t.me/pk4tech">Telegram Link</a> <a href="http://wa.me/+9779813173454">WhatsAPP</a></h1> 
+
+
+
 <P>
   
 <b><i>cctk.exe --syspwd=2211 --valsyspwd=1122</i></b> <br>
