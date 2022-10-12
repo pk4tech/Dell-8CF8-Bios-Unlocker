@@ -1,5 +1,5 @@
 # Dell-8CF8-Bios-Unlocker
-Help to unlock dell bios password 11th &amp; 12th gen
+Help to unlock dell bios password 11th &amp; 12th gen <B>Of course if booting is possible not everything locked !!!</B>
 
 <h1>Pk4Tech Is Always Ready2Help</h1>
 
