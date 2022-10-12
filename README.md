@@ -29,6 +29,7 @@ Help to unlock dell bios password 11th &amp; 12th gen
 
 <h3><a href="https://github.com/pk4tech/Dell-Bios-Computer-Deployment-Settings-edit-bios-Password/archive/refs/heads/main.zip">Git Download</a></h3>
 <h3><a href="https://dl.dell.com/sysman/DELL_CCTK_110_A00_R266721.exe">Dell Download CCTK</a></h3>
+<h3><a href="https://dl.dell.com/FOLDER08911558M/1/Dell-Command-Update-Windows-Universal-Application_DT6YC_WIN_4.6.0_A00.EXE" alt="29RLXD3">Dell Latitude 7420 Download CCTK</a></h3>
 
 
 
