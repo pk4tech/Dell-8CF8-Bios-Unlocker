@@ -25,7 +25,7 @@ Help to unlock dell bios password 11th &amp; 12th gen <B>Of course if booting is
 <img src="https://user-images.githubusercontent.com/35728885/191998928-2a64bf58-0cb9-4930-938a-6479c385ba76.png" height="50%"  width="50%">
 <img src="https://user-images.githubusercontent.com/35728885/191998994-28614dc0-fb60-450f-96ec-262d732dcec2.png" height="50%"  width="50%">
 <br>
-<H3>Will Not Work on Lock Like this <b>If Windows didn't BOOT</b></H3>
+<H4>Will Not Work on Lock Like this <b>"If Windows didn't BOOT"</b></H4>
 <img src="https://user-images.githubusercontent.com/35728885/195374901-6434e180-9a9c-4901-834f-73798fbfd034.png" height="50%"  width="50%">
 
 
